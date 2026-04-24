@@ -1,0 +1,2582 @@
+[
+  {
+    "char": "按时",
+    "pinyin": "ànshí",
+    "meaning": "đúng giờ"
+  },
+  {
+    "char": "按照",
+    "pinyin": "ànzhào",
+    "meaning": "theo, căn cứ vào"
+  },
+  {
+    "char": "半",
+    "pinyin": "bàn",
+    "meaning": "một nửa"
+  },
+  {
+    "char": "帮忙",
+    "pinyin": "bāngmáng",
+    "meaning": "giúp đỡ"
+  },
+  {
+    "char": "包",
+    "pinyin": "bāo",
+    "meaning": "túi, gói; bao gồm"
+  },
+  {
+    "char": "饱",
+    "pinyin": "bǎo",
+    "meaning": "no"
+  },
+  {
+    "char": "比",
+    "pinyin": "bǐ",
+    "meaning": "so với"
+  },
+  {
+    "char": "比较",
+    "pinyin": "bǐjiào",
+    "meaning": "so sánh, khá"
+  },
+  {
+    "char": "比赛",
+    "pinyin": "bǐsài",
+    "meaning": "thi đấu, cuộc thi"
+  },
+  {
+    "char": "必须",
+    "pinyin": "bìxū",
+    "meaning": "phải, bắt buộc"
+  },
+  {
+    "char": "毕业",
+    "pinyin": "bìyè",
+    "meaning": "tốt nghiệp"
+  },
+  {
+    "char": "遍",
+    "pinyin": "biàn",
+    "meaning": "lần, khắp"
+  },
+  {
+    "char": "标准",
+    "pinyin": "biāozhǔn",
+    "meaning": "tiêu chuẩn"
+  },
+  {
+    "char": "表",
+    "pinyin": "biǎo",
+    "meaning": "đồng hồ, bảng"
+  },
+  {
+    "char": "表达",
+    "pinyin": "biǎodá",
+    "meaning": "biểu đạt"
+  },
+  {
+    "char": "表面",
+    "pinyin": "biǎomiàn",
+    "meaning": "bề mặt, bên ngoài"
+  },
+  {
+    "char": "表示",
+    "pinyin": "biǎoshì",
+    "meaning": "biểu thị, cho biết"
+  },
+  {
+    "char": "表扬",
+    "pinyin": "biǎoyáng",
+    "meaning": "khen ngợi"
+  },
+  {
+    "char": "宾馆",
+    "pinyin": "bīnguǎn",
+    "meaning": "khách sạn"
+  },
+  {
+    "char": "冰箱",
+    "pinyin": "bīngxiāng",
+    "meaning": "tủ lạnh"
+  },
+  {
+    "char": "不但",
+    "pinyin": "búdàn",
+    "meaning": "không những"
+  },
+  {
+    "char": "不过",
+    "pinyin": "búguò",
+    "meaning": "nhưng mà, chỉ là"
+  },
+  {
+    "char": "不仅",
+    "pinyin": "bùjǐn",
+    "meaning": "không chỉ"
+  },
+  {
+    "char": "部分",
+    "pinyin": "bùfen",
+    "meaning": "bộ phận, phần"
+  },
+  {
+    "char": "菜单",
+    "pinyin": "càidān",
+    "meaning": "thực đơn"
+  },
+  {
+    "char": "参观",
+    "pinyin": "cānguān",
+    "meaning": "tham quan"
+  },
+  {
+    "char": "参加",
+    "pinyin": "cānjiā",
+    "meaning": "tham gia"
+  },
+  {
+    "char": "草",
+    "pinyin": "cǎo",
+    "meaning": "cỏ"
+  },
+  {
+    "char": "层",
+    "pinyin": "céng",
+    "meaning": "tầng, lớp"
+  },
+  {
+    "char": "差",
+    "pinyin": "chà",
+    "meaning": "kém, thiếu"
+  },
+  {
+    "char": "差不多",
+    "pinyin": "chàbuduō",
+    "meaning": "gần như, xấp xỉ"
+  },
+  {
+    "char": "尝",
+    "pinyin": "cháng",
+    "meaning": "nếm, thử"
+  },
+  {
+    "char": "常常",
+    "pinyin": "chángcháng",
+    "meaning": "thường xuyên"
+  },
+  {
+    "char": "超市",
+    "pinyin": "chāoshì",
+    "meaning": "siêu thị"
+  },
+  {
+    "char": "衬衫",
+    "pinyin": "chènshān",
+    "meaning": "áo sơ mi"
+  },
+  {
+    "char": "成绩",
+    "pinyin": "chéngjì",
+    "meaning": "thành tích, điểm số"
+  },
+  {
+    "char": "城市",
+    "pinyin": "chéngshì",
+    "meaning": "thành phố"
+  },
+  {
+    "char": "迟到",
+    "pinyin": "chídào",
+    "meaning": "đến muộn"
+  },
+  {
+    "char": "除了",
+    "pinyin": "chúle",
+    "meaning": "ngoài... ra"
+  },
+  {
+    "char": "厨房",
+    "pinyin": "chúfáng",
+    "meaning": "nhà bếp"
+  },
+  {
+    "char": "传真",
+    "pinyin": "chuánzhēn",
+    "meaning": "fax, máy fax"
+  },
+  {
+    "char": "窗",
+    "pinyin": "chuāng",
+    "meaning": "cửa sổ"
+  },
+  {
+    "char": "词语",
+    "pinyin": "cíyǔ",
+    "meaning": "từ ngữ"
+  },
+  {
+    "char": "从前",
+    "pinyin": "cóngqián",
+    "meaning": "trước đây, ngày xưa"
+  },
+  {
+    "char": "错误",
+    "pinyin": "cuòwù",
+    "meaning": "sai lầm, lỗi"
+  },
+  {
+    "char": "答案",
+    "pinyin": "dá'àn",
+    "meaning": "đáp án"
+  },
+  {
+    "char": "打扮",
+    "pinyin": "dǎban",
+    "meaning": "trang điểm, ăn diện"
+  },
+  {
+    "char": "打折",
+    "pinyin": "dǎzhé",
+    "meaning": "giảm giá"
+  },
+  {
+    "char": "打扰",
+    "pinyin": "dǎrǎo",
+    "meaning": "làm phiền"
+  },
+  {
+    "char": "打针",
+    "pinyin": "dǎzhēn",
+    "meaning": "tiêm thuốc"
+  },
+  {
+    "char": "大概",
+    "pinyin": "dàgài",
+    "meaning": "khoảng, đại khái"
+  },
+  {
+    "char": "大人",
+    "pinyin": "dàren",
+    "meaning": "người lớn"
+  },
+  {
+    "char": "大笑",
+    "pinyin": "dàxiào",
+    "meaning": "cười lớn"
+  },
+  {
+    "char": "戴",
+    "pinyin": "dài",
+    "meaning": "đeo, đội"
+  },
+  {
+    "char": "当作",
+    "pinyin": "dàngzuò",
+    "meaning": "coi như, xem như"
+  },
+  {
+    "char": "刀",
+    "pinyin": "dāo",
+    "meaning": "dao"
+  },
+  {
+    "char": "导游",
+    "pinyin": "dǎoyóu",
+    "meaning": "hướng dẫn viên du lịch"
+  },
+  {
+    "char": "到处",
+    "pinyin": "dàochù",
+    "meaning": "khắp nơi"
+  },
+  {
+    "char": "到底",
+    "pinyin": "dàodǐ",
+    "meaning": "rốt cuộc, cuối cùng"
+  },
+  {
+    "char": "道歉",
+    "pinyin": "dàoqiàn",
+    "meaning": "xin lỗi"
+  },
+  {
+    "char": "得意",
+    "pinyin": "déyì",
+    "meaning": "đắc ý, tự mãn"
+  },
+  {
+    "char": "登机",
+    "pinyin": "dēngjī",
+    "meaning": "lên máy bay"
+  },
+  {
+    "char": "低",
+    "pinyin": "dī",
+    "meaning": "thấp"
+  },
+  {
+    "char": "底",
+    "pinyin": "dǐ",
+    "meaning": "đáy, cuối cùng"
+  },
+  {
+    "char": "地球",
+    "pinyin": "dìqiú",
+    "meaning": "trái đất"
+  },
+  {
+    "char": "电梯",
+    "pinyin": "diàntī",
+    "meaning": "thang máy"
+  },
+  {
+    "char": "电子邮件",
+    "pinyin": "diànzǐyóujiàn",
+    "meaning": "email, thư điện tử"
+  },
+  {
+    "char": "东",
+    "pinyin": "dōng",
+    "meaning": "phía đông"
+  },
+  {
+    "char": "冬",
+    "pinyin": "dōng",
+    "meaning": "mùa đông"
+  },
+  {
+    "char": "动物",
+    "pinyin": "dòngwù",
+    "meaning": "động vật"
+  },
+  {
+    "char": "短",
+    "pinyin": "duǎn",
+    "meaning": "ngắn"
+  },
+  {
+    "char": "段",
+    "pinyin": "duàn",
+    "meaning": "đoạn, khúc"
+  },
+  {
+    "char": "锻炼",
+    "pinyin": "duànliàn",
+    "meaning": "rèn luyện, tập thể dục"
+  },
+  {
+    "char": "多么",
+    "pinyin": "duōme",
+    "meaning": "biết bao, thật là"
+  },
+  {
+    "char": "饿",
+    "pinyin": "è",
+    "meaning": "đói"
+  },
+  {
+    "char": "耳朵",
+    "pinyin": "ěrduo",
+    "meaning": "tai"
+  },
+  {
+    "char": "而",
+    "pinyin": "ér",
+    "meaning": "mà, nhưng"
+  },
+  {
+    "char": "发生",
+    "pinyin": "fāshēng",
+    "meaning": "xảy ra"
+  },
+  {
+    "char": "发展",
+    "pinyin": "fāzhǎn",
+    "meaning": "phát triển"
+  },
+  {
+    "char": "法律",
+    "pinyin": "fǎlǜ",
+    "meaning": "pháp luật"
+  },
+  {
+    "char": "翻译",
+    "pinyin": "fānyì",
+    "meaning": "dịch, biên dịch"
+  },
+  {
+    "char": "烦恼",
+    "pinyin": "fánnǎo",
+    "meaning": "phiền não, lo lắng"
+  },
+  {
+    "char": "反对",
+    "pinyin": "fǎnduì",
+    "meaning": "phản đối"
+  },
+  {
+    "char": "方法",
+    "pinyin": "fāngfǎ",
+    "meaning": "phương pháp"
+  },
+  {
+    "char": "方面",
+    "pinyin": "fāngmiàn",
+    "meaning": "phương diện, khía cạnh"
+  },
+  {
+    "char": "房子",
+    "pinyin": "fángzi",
+    "meaning": "nhà cửa"
+  },
+  {
+    "char": "放弃",
+    "pinyin": "fàngqì",
+    "meaning": "từ bỏ"
+  },
+  {
+    "char": "放松",
+    "pinyin": "fàngsōng",
+    "meaning": "thư giãn, thả lỏng"
+  },
+  {
+    "char": "分",
+    "pinyin": "fēn",
+    "meaning": "chia, điểm, phút"
+  },
+  {
+    "char": "附近",
+    "pinyin": "fùjìn",
+    "meaning": "gần, lân cận"
+  },
+  {
+    "char": "复印",
+    "pinyin": "fùyìn",
+    "meaning": "photocopy, sao chụp"
+  },
+  {
+    "char": "付",
+    "pinyin": "fù",
+    "meaning": "trả (tiền)"
+  },
+  {
+    "char": "富",
+    "pinyin": "fù",
+    "meaning": "giàu, phong phú"
+  },
+  {
+    "char": "干",
+    "pinyin": "gàn",
+    "meaning": "làm, khô"
+  },
+  {
+    "char": "刚",
+    "pinyin": "gāng",
+    "meaning": "vừa mới"
+  },
+  {
+    "char": "高速公路",
+    "pinyin": "gāosùgōnglù",
+    "meaning": "đường cao tốc"
+  },
+  {
+    "char": "告别",
+    "pinyin": "gàobié",
+    "meaning": "tạm biệt"
+  },
+  {
+    "char": "个子",
+    "pinyin": "gèzi",
+    "meaning": "chiều cao, vóc dáng"
+  },
+  {
+    "char": "给",
+    "pinyin": "gěi",
+    "meaning": "cho, đưa"
+  },
+  {
+    "char": "跟",
+    "pinyin": "gēn",
+    "meaning": "theo, với"
+  },
+  {
+    "char": "根据",
+    "pinyin": "gēnjù",
+    "meaning": "căn cứ, dựa vào"
+  },
+  {
+    "char": "更",
+    "pinyin": "gèng",
+    "meaning": "càng, hơn"
+  },
+  {
+    "char": "公斤",
+    "pinyin": "gōngjīn",
+    "meaning": "kilogram"
+  },
+  {
+    "char": "功夫",
+    "pinyin": "gōngfu",
+    "meaning": "võ thuật, công phu"
+  },
+  {
+    "char": "共同",
+    "pinyin": "gòngtóng",
+    "meaning": "chung, cùng nhau"
+  },
+  {
+    "char": "购物",
+    "pinyin": "gòuwù",
+    "meaning": "mua sắm"
+  },
+  {
+    "char": "够",
+    "pinyin": "gòu",
+    "meaning": "đủ"
+  },
+  {
+    "char": "估计",
+    "pinyin": "gūjì",
+    "meaning": "ước tính, phỏng đoán"
+  },
+  {
+    "char": "鼓励",
+    "pinyin": "gǔlì",
+    "meaning": "khuyến khích"
+  },
+  {
+    "char": "顾客",
+    "pinyin": "gùkè",
+    "meaning": "khách hàng"
+  },
+  {
+    "char": "挂",
+    "pinyin": "guà",
+    "meaning": "treo, móc"
+  },
+  {
+    "char": "关键",
+    "pinyin": "guānjiàn",
+    "meaning": "then chốt, quan trọng"
+  },
+  {
+    "char": "关心",
+    "pinyin": "guānxīn",
+    "meaning": "quan tâm"
+  },
+  {
+    "char": "关于",
+    "pinyin": "guānyú",
+    "meaning": "về, liên quan đến"
+  },
+  {
+    "char": "管理",
+    "pinyin": "guǎnlǐ",
+    "meaning": "quản lý"
+  },
+  {
+    "char": "光",
+    "pinyin": "guāng",
+    "meaning": "ánh sáng, chỉ còn"
+  },
+  {
+    "char": "广播",
+    "pinyin": "guǎngbō",
+    "meaning": "phát thanh, đài"
+  },
+  {
+    "char": "逛",
+    "pinyin": "guàng",
+    "meaning": "đi dạo, mua sắm"
+  },
+  {
+    "char": "规定",
+    "pinyin": "guīdìng",
+    "meaning": "quy định"
+  },
+  {
+    "char": "国际",
+    "pinyin": "guójì",
+    "meaning": "quốc tế"
+  },
+  {
+    "char": "过",
+    "pinyin": "guò",
+    "meaning": "qua, quá, từng"
+  },
+  {
+    "char": "护照",
+    "pinyin": "hùzhào",
+    "meaning": "hộ chiếu"
+  },
+  {
+    "char": "还",
+    "pinyin": "hái",
+    "meaning": "vẫn, còn"
+  },
+  {
+    "char": "孩子",
+    "pinyin": "háizi",
+    "meaning": "trẻ con"
+  },
+  {
+    "char": "海洋",
+    "pinyin": "hǎiyáng",
+    "meaning": "đại dương"
+  },
+  {
+    "char": "害羞",
+    "pinyin": "hàixiū",
+    "meaning": "xấu hổ, e thẹn"
+  },
+  {
+    "char": "寒假",
+    "pinyin": "hánjià",
+    "meaning": "nghỉ đông"
+  },
+  {
+    "char": "汗",
+    "pinyin": "hàn",
+    "meaning": "mồ hôi"
+  },
+  {
+    "char": "航班",
+    "pinyin": "hángbān",
+    "meaning": "chuyến bay"
+  },
+  {
+    "char": "好看",
+    "pinyin": "hǎokàn",
+    "meaning": "đẹp, hay"
+  },
+  {
+    "char": "号码",
+    "pinyin": "hàomǎ",
+    "meaning": "số, số điện thoại"
+  },
+  {
+    "char": "合格",
+    "pinyin": "hégé",
+    "meaning": "đạt chuẩn, hợp quy"
+  },
+  {
+    "char": "合适",
+    "pinyin": "héshì",
+    "meaning": "phù hợp"
+  },
+  {
+    "char": "黑板",
+    "pinyin": "hēibǎn",
+    "meaning": "bảng đen"
+  },
+  {
+    "char": "后悔",
+    "pinyin": "hòuhuǐ",
+    "meaning": "hối hận"
+  },
+  {
+    "char": "厚",
+    "pinyin": "hòu",
+    "meaning": "dày"
+  },
+  {
+    "char": "互联网",
+    "pinyin": "hùliánwǎng",
+    "meaning": "internet"
+  },
+  {
+    "char": "互相",
+    "pinyin": "hùxiāng",
+    "meaning": "lẫn nhau"
+  },
+  {
+    "char": "护士",
+    "pinyin": "hùshi",
+    "meaning": "y tá"
+  },
+  {
+    "char": "花",
+    "pinyin": "huā",
+    "meaning": "hoa; tiêu tiền"
+  },
+  {
+    "char": "划",
+    "pinyin": "huá",
+    "meaning": "chèo, vạch"
+  },
+  {
+    "char": "坏",
+    "pinyin": "huài",
+    "meaning": "hỏng, xấu"
+  },
+  {
+    "char": "欢迎",
+    "pinyin": "huānyíng",
+    "meaning": "hoan nghênh, chào mừng"
+  },
+  {
+    "char": "环境",
+    "pinyin": "huánjìng",
+    "meaning": "môi trường"
+  },
+  {
+    "char": "换",
+    "pinyin": "huàn",
+    "meaning": "đổi, thay"
+  },
+  {
+    "char": "黄",
+    "pinyin": "huáng",
+    "meaning": "vàng"
+  },
+  {
+    "char": "回",
+    "pinyin": "huí",
+    "meaning": "trở về"
+  },
+  {
+    "char": "活动",
+    "pinyin": "huódòng",
+    "meaning": "hoạt động"
+  },
+  {
+    "char": "火",
+    "pinyin": "huǒ",
+    "meaning": "lửa"
+  },
+  {
+    "char": "或者",
+    "pinyin": "huòzhě",
+    "meaning": "hoặc là"
+  },
+  {
+    "char": "几乎",
+    "pinyin": "jīhū",
+    "meaning": "gần như"
+  },
+  {
+    "char": "记得",
+    "pinyin": "jìde",
+    "meaning": "nhớ"
+  },
+  {
+    "char": "检查",
+    "pinyin": "jiǎnchá",
+    "meaning": "kiểm tra"
+  },
+  {
+    "char": "简单",
+    "pinyin": "jiǎndān",
+    "meaning": "đơn giản"
+  },
+  {
+    "char": "见面",
+    "pinyin": "jiànmiàn",
+    "meaning": "gặp mặt"
+  },
+  {
+    "char": "讲",
+    "pinyin": "jiǎng",
+    "meaning": "nói, giảng"
+  },
+  {
+    "char": "交",
+    "pinyin": "jiāo",
+    "meaning": "giao, nộp"
+  },
+  {
+    "char": "交通",
+    "pinyin": "jiāotōng",
+    "meaning": "giao thông"
+  },
+  {
+    "char": "饺子",
+    "pinyin": "jiǎozi",
+    "meaning": "há cảo, bánh chẻo"
+  },
+  {
+    "char": "教",
+    "pinyin": "jiāo",
+    "meaning": "dạy"
+  },
+  {
+    "char": "脚",
+    "pinyin": "jiǎo",
+    "meaning": "chân"
+  },
+  {
+    "char": "角",
+    "pinyin": "jiǎo",
+    "meaning": "góc, hào (tiền)"
+  },
+  {
+    "char": "接",
+    "pinyin": "jiē",
+    "meaning": "đón, nhận"
+  },
+  {
+    "char": "接受",
+    "pinyin": "jiēshòu",
+    "meaning": "chấp nhận"
+  },
+  {
+    "char": "街道",
+    "pinyin": "jiēdào",
+    "meaning": "phố, đường"
+  },
+  {
+    "char": "节目",
+    "pinyin": "jiémù",
+    "meaning": "chương trình"
+  },
+  {
+    "char": "结婚",
+    "pinyin": "jiéhūn",
+    "meaning": "kết hôn"
+  },
+  {
+    "char": "结束",
+    "pinyin": "jiéshù",
+    "meaning": "kết thúc"
+  },
+  {
+    "char": "解决",
+    "pinyin": "jiějué",
+    "meaning": "giải quyết"
+  },
+  {
+    "char": "借",
+    "pinyin": "jiè",
+    "meaning": "mượn, cho mượn"
+  },
+  {
+    "char": "尽管",
+    "pinyin": "jǐnguǎn",
+    "meaning": "cứ việc, dù sao"
+  },
+  {
+    "char": "经常",
+    "pinyin": "jīngcháng",
+    "meaning": "thường xuyên"
+  },
+  {
+    "char": "经过",
+    "pinyin": "jīngguò",
+    "meaning": "đi qua, trải qua"
+  },
+  {
+    "char": "经济",
+    "pinyin": "jīngjì",
+    "meaning": "kinh tế"
+  },
+  {
+    "char": "经理",
+    "pinyin": "jīnglǐ",
+    "meaning": "giám đốc"
+  },
+  {
+    "char": "经验",
+    "pinyin": "jīngyàn",
+    "meaning": "kinh nghiệm"
+  },
+  {
+    "char": "精彩",
+    "pinyin": "jīngcǎi",
+    "meaning": "xuất sắc, đặc sắc"
+  },
+  {
+    "char": "镜子",
+    "pinyin": "jìngzi",
+    "meaning": "gương"
+  },
+  {
+    "char": "九",
+    "pinyin": "jiǔ",
+    "meaning": "chín"
+  },
+  {
+    "char": "就",
+    "pinyin": "jiù",
+    "meaning": "liền, thì, chỉ"
+  },
+  {
+    "char": "决定",
+    "pinyin": "juédìng",
+    "meaning": "quyết định"
+  },
+  {
+    "char": "绝对",
+    "pinyin": "juéduì",
+    "meaning": "tuyệt đối"
+  },
+  {
+    "char": "咖啡",
+    "pinyin": "kāfēi",
+    "meaning": "cà phê"
+  },
+  {
+    "char": "开",
+    "pinyin": "kāi",
+    "meaning": "mở, lái"
+  },
+  {
+    "char": "看法",
+    "pinyin": "kànfǎ",
+    "meaning": "quan điểm, cách nhìn"
+  },
+  {
+    "char": "考虑",
+    "pinyin": "kǎolǜ",
+    "meaning": "cân nhắc, suy nghĩ"
+  },
+  {
+    "char": "棵",
+    "pinyin": "kē",
+    "meaning": "cây (lượng từ)"
+  },
+  {
+    "char": "可能",
+    "pinyin": "kěnéng",
+    "meaning": "có thể"
+  },
+  {
+    "char": "可以",
+    "pinyin": "kěyǐ",
+    "meaning": "có thể, được"
+  },
+  {
+    "char": "克",
+    "pinyin": "kè",
+    "meaning": "gram, khắc phục"
+  },
+  {
+    "char": "客人",
+    "pinyin": "kèren",
+    "meaning": "khách"
+  },
+  {
+    "char": "空调",
+    "pinyin": "kōngtiáo",
+    "meaning": "điều hòa"
+  },
+  {
+    "char": "口",
+    "pinyin": "kǒu",
+    "meaning": "miệng, cửa"
+  },
+  {
+    "char": "哭",
+    "pinyin": "kū",
+    "meaning": "khóc"
+  },
+  {
+    "char": "裤子",
+    "pinyin": "kùzi",
+    "meaning": "quần"
+  },
+  {
+    "char": "快",
+    "pinyin": "kuài",
+    "meaning": "nhanh"
+  },
+  {
+    "char": "快乐",
+    "pinyin": "kuàilè",
+    "meaning": "vui vẻ"
+  },
+  {
+    "char": "筷子",
+    "pinyin": "kuàizi",
+    "meaning": "đũa"
+  },
+  {
+    "char": "蓝",
+    "pinyin": "lán",
+    "meaning": "xanh dương"
+  },
+  {
+    "char": "老",
+    "pinyin": "lǎo",
+    "meaning": "già, cũ"
+  },
+  {
+    "char": "老师",
+    "pinyin": "lǎoshī",
+    "meaning": "giáo viên"
+  },
+  {
+    "char": "了",
+    "pinyin": "le",
+    "meaning": "rồi (trợ từ)"
+  },
+  {
+    "char": "累",
+    "pinyin": "lèi",
+    "meaning": "mệt"
+  },
+  {
+    "char": "冷",
+    "pinyin": "lěng",
+    "meaning": "lạnh"
+  },
+  {
+    "char": "梨",
+    "pinyin": "lí",
+    "meaning": "quả lê"
+  },
+  {
+    "char": "离",
+    "pinyin": "lí",
+    "meaning": "cách, rời"
+  },
+  {
+    "char": "里",
+    "pinyin": "lǐ",
+    "meaning": "trong, dặm"
+  },
+  {
+    "char": "礼物",
+    "pinyin": "lǐwù",
+    "meaning": "quà tặng"
+  },
+  {
+    "char": "历史",
+    "pinyin": "lìshǐ",
+    "meaning": "lịch sử"
+  },
+  {
+    "char": "脸",
+    "pinyin": "liǎn",
+    "meaning": "khuôn mặt"
+  },
+  {
+    "char": "练习",
+    "pinyin": "liànxí",
+    "meaning": "luyện tập"
+  },
+  {
+    "char": "辆",
+    "pinyin": "liàng",
+    "meaning": "chiếc (xe)"
+  },
+  {
+    "char": "聊天",
+    "pinyin": "liáotiān",
+    "meaning": "tán gẫu"
+  },
+  {
+    "char": "了解",
+    "pinyin": "liǎojiě",
+    "meaning": "hiểu rõ"
+  },
+  {
+    "char": "邻居",
+    "pinyin": "línjū",
+    "meaning": "hàng xóm"
+  },
+  {
+    "char": "领导",
+    "pinyin": "lǐngdǎo",
+    "meaning": "lãnh đạo"
+  },
+  {
+    "char": "留",
+    "pinyin": "liú",
+    "meaning": "ở lại, lưu"
+  },
+  {
+    "char": "流",
+    "pinyin": "liú",
+    "meaning": "chảy, dòng"
+  },
+  {
+    "char": "旅游",
+    "pinyin": "lǚyóu",
+    "meaning": "du lịch"
+  },
+  {
+    "char": "律师",
+    "pinyin": "lǜshī",
+    "meaning": "luật sư"
+  },
+  {
+    "char": "绿",
+    "pinyin": "lǜ",
+    "meaning": "xanh lá"
+  },
+  {
+    "char": "乱",
+    "pinyin": "luàn",
+    "meaning": "lộn xộn, lung tung"
+  },
+  {
+    "char": "麻烦",
+    "pinyin": "máfan",
+    "meaning": "phiền phức, rắc rối"
+  },
+  {
+    "char": "马",
+    "pinyin": "mǎ",
+    "meaning": "ngựa"
+  },
+  {
+    "char": "马上",
+    "pinyin": "mǎshàng",
+    "meaning": "ngay lập tức"
+  },
+  {
+    "char": "满意",
+    "pinyin": "mǎnyì",
+    "meaning": "hài lòng"
+  },
+  {
+    "char": "忙",
+    "pinyin": "máng",
+    "meaning": "bận"
+  },
+  {
+    "char": "猫",
+    "pinyin": "māo",
+    "meaning": "mèo"
+  },
+  {
+    "char": "毛",
+    "pinyin": "máo",
+    "meaning": "lông, tóc"
+  },
+  {
+    "char": "毛巾",
+    "pinyin": "máojīn",
+    "meaning": "khăn mặt"
+  },
+  {
+    "char": "没",
+    "pinyin": "méi",
+    "meaning": "không, chưa"
+  },
+  {
+    "char": "每",
+    "pinyin": "měi",
+    "meaning": "mỗi"
+  },
+  {
+    "char": "妹妹",
+    "pinyin": "mèimei",
+    "meaning": "em gái"
+  },
+  {
+    "char": "门口",
+    "pinyin": "ménkǒu",
+    "meaning": "cửa ra vào"
+  },
+  {
+    "char": "米",
+    "pinyin": "mǐ",
+    "meaning": "gạo, mét"
+  },
+  {
+    "char": "面包",
+    "pinyin": "miànbāo",
+    "meaning": "bánh mì"
+  },
+  {
+    "char": "明白",
+    "pinyin": "míngbai",
+    "meaning": "hiểu, rõ ràng"
+  },
+  {
+    "char": "名字",
+    "pinyin": "míngzi",
+    "meaning": "tên"
+  },
+  {
+    "char": "明天",
+    "pinyin": "míngtiān",
+    "meaning": "ngày mai"
+  },
+  {
+    "char": "摩托车",
+    "pinyin": "mótuōchē",
+    "meaning": "xe máy"
+  },
+  {
+    "char": "母亲",
+    "pinyin": "mǔqīn",
+    "meaning": "mẹ"
+  },
+  {
+    "char": "目的",
+    "pinyin": "mùdì",
+    "meaning": "mục đích"
+  },
+  {
+    "char": "拿",
+    "pinyin": "ná",
+    "meaning": "cầm, lấy"
+  },
+  {
+    "char": "哪",
+    "pinyin": "nǎ",
+    "meaning": "nào"
+  },
+  {
+    "char": "那儿",
+    "pinyin": "nàr",
+    "meaning": "ở đó"
+  },
+  {
+    "char": "那",
+    "pinyin": "nà",
+    "meaning": "đó, kia"
+  },
+  {
+    "char": "那么",
+    "pinyin": "nàme",
+    "meaning": "như vậy, thế thì"
+  },
+  {
+    "char": "奶奶",
+    "pinyin": "nǎinai",
+    "meaning": "bà nội"
+  },
+  {
+    "char": "男",
+    "pinyin": "nán",
+    "meaning": "nam"
+  },
+  {
+    "char": "南",
+    "pinyin": "nán",
+    "meaning": "nam (phía)"
+  },
+  {
+    "char": "难",
+    "pinyin": "nán",
+    "meaning": "khó"
+  },
+  {
+    "char": "难过",
+    "pinyin": "nánguò",
+    "meaning": "buồn"
+  },
+  {
+    "char": "脑",
+    "pinyin": "nǎo",
+    "meaning": "não"
+  },
+  {
+    "char": "内",
+    "pinyin": "nèi",
+    "meaning": "trong, nội bộ"
+  },
+  {
+    "char": "能",
+    "pinyin": "néng",
+    "meaning": "có thể"
+  },
+  {
+    "char": "年龄",
+    "pinyin": "niánlíng",
+    "meaning": "tuổi"
+  },
+  {
+    "char": "鸟",
+    "pinyin": "niǎo",
+    "meaning": "chim"
+  },
+  {
+    "char": "您",
+    "pinyin": "nín",
+    "meaning": "bạn/ông/bà (lịch sự)"
+  },
+  {
+    "char": "牛奶",
+    "pinyin": "niúnǎi",
+    "meaning": "sữa bò"
+  },
+  {
+    "char": "努力",
+    "pinyin": "nǔlì",
+    "meaning": "cố gắng"
+  },
+  {
+    "char": "女",
+    "pinyin": "nǚ",
+    "meaning": "nữ"
+  },
+  {
+    "char": "女士",
+    "pinyin": "nǚshì",
+    "meaning": "phụ nữ, bà"
+  },
+  {
+    "char": "旁边",
+    "pinyin": "pángbiān",
+    "meaning": "bên cạnh"
+  },
+  {
+    "char": "胖",
+    "pinyin": "pàng",
+    "meaning": "béo, mập"
+  },
+  {
+    "char": "跑",
+    "pinyin": "pǎo",
+    "meaning": "chạy"
+  },
+  {
+    "char": "皮鞋",
+    "pinyin": "píxié",
+    "meaning": "giày da"
+  },
+  {
+    "char": "朋友",
+    "pinyin": "péngyou",
+    "meaning": "bạn bè"
+  },
+  {
+    "char": "便宜",
+    "pinyin": "piányi",
+    "meaning": "rẻ"
+  },
+  {
+    "char": "票",
+    "pinyin": "piào",
+    "meaning": "vé"
+  },
+  {
+    "char": "拼音",
+    "pinyin": "pīnyīn",
+    "meaning": "bính âm"
+  },
+  {
+    "char": "苹果",
+    "pinyin": "píngguǒ",
+    "meaning": "táo"
+  },
+  {
+    "char": "破",
+    "pinyin": "pò",
+    "meaning": "rách, vỡ"
+  },
+  {
+    "char": "葡萄",
+    "pinyin": "pútao",
+    "meaning": "nho"
+  },
+  {
+    "char": "普遍",
+    "pinyin": "pǔbiàn",
+    "meaning": "phổ biến"
+  },
+  {
+    "char": "七",
+    "pinyin": "qī",
+    "meaning": "bảy"
+  },
+  {
+    "char": "妻子",
+    "pinyin": "qīzi",
+    "meaning": "vợ"
+  },
+  {
+    "char": "骑",
+    "pinyin": "qí",
+    "meaning": "cưỡi, lái (xe)"
+  },
+  {
+    "char": "其他",
+    "pinyin": "qítā",
+    "meaning": "khác, những cái khác"
+  },
+  {
+    "char": "奇怪",
+    "pinyin": "qíguài",
+    "meaning": "lạ, kỳ quặc"
+  },
+  {
+    "char": "起来",
+    "pinyin": "qǐlai",
+    "meaning": "dậy, bắt đầu"
+  },
+  {
+    "char": "汽车",
+    "pinyin": "qìchē",
+    "meaning": "ô tô"
+  },
+  {
+    "char": "千",
+    "pinyin": "qiān",
+    "meaning": "nghìn"
+  },
+  {
+    "char": "前面",
+    "pinyin": "qiánmiàn",
+    "meaning": "phía trước"
+  },
+  {
+    "char": "钱",
+    "pinyin": "qián",
+    "meaning": "tiền"
+  },
+  {
+    "char": "亲",
+    "pinyin": "qīn",
+    "meaning": "thân, ruột"
+  },
+  {
+    "char": "亲戚",
+    "pinyin": "qīnqi",
+    "meaning": "họ hàng"
+  },
+  {
+    "char": "清楚",
+    "pinyin": "qīngchu",
+    "meaning": "rõ ràng"
+  },
+  {
+    "char": "晴",
+    "pinyin": "qíng",
+    "meaning": "nắng"
+  },
+  {
+    "char": "请",
+    "pinyin": "qǐng",
+    "meaning": "mời, xin"
+  },
+  {
+    "char": "穷",
+    "pinyin": "qióng",
+    "meaning": "nghèo"
+  },
+  {
+    "char": "区",
+    "pinyin": "qū",
+    "meaning": "khu, quận"
+  },
+  {
+    "char": "取",
+    "pinyin": "qǔ",
+    "meaning": "lấy, nhận"
+  },
+  {
+    "char": "去",
+    "pinyin": "qù",
+    "meaning": "đi"
+  },
+  {
+    "char": "去年",
+    "pinyin": "qùnián",
+    "meaning": "năm ngoái"
+  },
+  {
+    "char": "全",
+    "pinyin": "quán",
+    "meaning": "toàn, cả"
+  },
+  {
+    "char": "确定",
+    "pinyin": "quèdìng",
+    "meaning": "xác định, chắc chắn"
+  },
+  {
+    "char": "裙子",
+    "pinyin": "qúnzi",
+    "meaning": "váy"
+  },
+  {
+    "char": "让",
+    "pinyin": "ràng",
+    "meaning": "nhường, để"
+  },
+  {
+    "char": "热闹",
+    "pinyin": "rènao",
+    "meaning": "náo nhiệt, đông vui"
+  },
+  {
+    "char": "人",
+    "pinyin": "rén",
+    "meaning": "người"
+  },
+  {
+    "char": "认识",
+    "pinyin": "rènshi",
+    "meaning": "quen biết"
+  },
+  {
+    "char": "认真",
+    "pinyin": "rènzhēn",
+    "meaning": "nghiêm túc, chăm chỉ"
+  },
+  {
+    "char": "如果",
+    "pinyin": "rúguǒ",
+    "meaning": "nếu"
+  },
+  {
+    "char": "入口",
+    "pinyin": "rùkǒu",
+    "meaning": "lối vào"
+  },
+  {
+    "char": "散步",
+    "pinyin": "sànbù",
+    "meaning": "đi dạo"
+  },
+  {
+    "char": "色",
+    "pinyin": "sè",
+    "meaning": "màu sắc"
+  },
+  {
+    "char": "伞",
+    "pinyin": "sǎn",
+    "meaning": "ô, dù"
+  },
+  {
+    "char": "上网",
+    "pinyin": "shàngwǎng",
+    "meaning": "lên mạng"
+  },
+  {
+    "char": "上",
+    "pinyin": "shàng",
+    "meaning": "trên, lên"
+  },
+  {
+    "char": "上午",
+    "pinyin": "shàngwǔ",
+    "meaning": "buổi sáng"
+  },
+  {
+    "char": "少",
+    "pinyin": "shǎo",
+    "meaning": "ít"
+  },
+  {
+    "char": "谁",
+    "pinyin": "shéi",
+    "meaning": "ai"
+  },
+  {
+    "char": "什么",
+    "pinyin": "shénme",
+    "meaning": "gì"
+  },
+  {
+    "char": "生病",
+    "pinyin": "shēngbìng",
+    "meaning": "ốm, bệnh"
+  },
+  {
+    "char": "生气",
+    "pinyin": "shēngqì",
+    "meaning": "tức giận"
+  },
+  {
+    "char": "生日",
+    "pinyin": "shēngrì",
+    "meaning": "sinh nhật"
+  },
+  {
+    "char": "声音",
+    "pinyin": "shēngyīn",
+    "meaning": "âm thanh, giọng"
+  },
+  {
+    "char": "省",
+    "pinyin": "shěng",
+    "meaning": "tỉnh, tiết kiệm"
+  },
+  {
+    "char": "剩",
+    "pinyin": "shèng",
+    "meaning": "còn lại, thừa"
+  },
+  {
+    "char": "十",
+    "pinyin": "shí",
+    "meaning": "mười"
+  },
+  {
+    "char": "时候",
+    "pinyin": "shíhou",
+    "meaning": "lúc, thời điểm"
+  },
+  {
+    "char": "时间",
+    "pinyin": "shíjiān",
+    "meaning": "thời gian"
+  },
+  {
+    "char": "使",
+    "pinyin": "shǐ",
+    "meaning": "khiến, làm cho"
+  },
+  {
+    "char": "是",
+    "pinyin": "shì",
+    "meaning": "là"
+  },
+  {
+    "char": "试",
+    "pinyin": "shì",
+    "meaning": "thử"
+  },
+  {
+    "char": "瘦",
+    "pinyin": "shòu",
+    "meaning": "gầy"
+  },
+  {
+    "char": "书",
+    "pinyin": "shū",
+    "meaning": "sách"
+  },
+  {
+    "char": "舒服",
+    "pinyin": "shūfu",
+    "meaning": "dễ chịu, thoải mái"
+  },
+  {
+    "char": "树",
+    "pinyin": "shù",
+    "meaning": "cây"
+  },
+  {
+    "char": "数学",
+    "pinyin": "shùxué",
+    "meaning": "toán học"
+  },
+  {
+    "char": "刷牙",
+    "pinyin": "shuāyá",
+    "meaning": "đánh răng"
+  },
+  {
+    "char": "双",
+    "pinyin": "shuāng",
+    "meaning": "đôi, cặp"
+  },
+  {
+    "char": "水",
+    "pinyin": "shuǐ",
+    "meaning": "nước"
+  },
+  {
+    "char": "水果",
+    "pinyin": "shuǐguǒ",
+    "meaning": "trái cây"
+  },
+  {
+    "char": "水平",
+    "pinyin": "shuǐpíng",
+    "meaning": "trình độ"
+  },
+  {
+    "char": "睡觉",
+    "pinyin": "shuìjiào",
+    "meaning": "ngủ"
+  },
+  {
+    "char": "说",
+    "pinyin": "shuō",
+    "meaning": "nói"
+  },
+  {
+    "char": "说话",
+    "pinyin": "shuōhuà",
+    "meaning": "nói chuyện"
+  },
+  {
+    "char": "司机",
+    "pinyin": "sījī",
+    "meaning": "tài xế"
+  },
+  {
+    "char": "四",
+    "pinyin": "sì",
+    "meaning": "bốn"
+  },
+  {
+    "char": "送",
+    "pinyin": "sòng",
+    "meaning": "tặng, đưa"
+  },
+  {
+    "char": "酸",
+    "pinyin": "suān",
+    "meaning": "chua, mỏi"
+  },
+  {
+    "char": "虽然",
+    "pinyin": "suīrán",
+    "meaning": "mặc dù"
+  },
+  {
+    "char": "随便",
+    "pinyin": "suíbiàn",
+    "meaning": "tùy tiện, sao cũng được"
+  },
+  {
+    "char": "随",
+    "pinyin": "suí",
+    "meaning": "theo, tùy"
+  },
+  {
+    "char": "岁",
+    "pinyin": "suì",
+    "meaning": "tuổi"
+  },
+  {
+    "char": "孙",
+    "pinyin": "sūn",
+    "meaning": "cháu"
+  },
+  {
+    "char": "它",
+    "pinyin": "tā",
+    "meaning": "nó"
+  },
+  {
+    "char": "台",
+    "pinyin": "tái",
+    "meaning": "cái, đài"
+  },
+  {
+    "char": "太",
+    "pinyin": "tài",
+    "meaning": "quá"
+  },
+  {
+    "char": "太阳",
+    "pinyin": "tàiyáng",
+    "meaning": "mặt trời"
+  },
+  {
+    "char": "谈",
+    "pinyin": "tán",
+    "meaning": "nói chuyện, bàn"
+  },
+  {
+    "char": "弹",
+    "pinyin": "tán",
+    "meaning": "chơi (đàn), bắn"
+  },
+  {
+    "char": "汤",
+    "pinyin": "tāng",
+    "meaning": "canh, súp"
+  },
+  {
+    "char": "糖",
+    "pinyin": "táng",
+    "meaning": "đường, kẹo"
+  },
+  {
+    "char": "躺",
+    "pinyin": "tǎng",
+    "meaning": "nằm"
+  },
+  {
+    "char": "趟",
+    "pinyin": "tàng",
+    "meaning": "chuyến, lượt"
+  },
+  {
+    "char": "讨论",
+    "pinyin": "tǎolùn",
+    "meaning": "thảo luận"
+  },
+  {
+    "char": "特别",
+    "pinyin": "tèbié",
+    "meaning": "đặc biệt"
+  },
+  {
+    "char": "疼",
+    "pinyin": "téng",
+    "meaning": "đau"
+  },
+  {
+    "char": "踢",
+    "pinyin": "tī",
+    "meaning": "đá"
+  },
+  {
+    "char": "提",
+    "pinyin": "tí",
+    "meaning": "nhấc, đề cập"
+  },
+  {
+    "char": "题",
+    "pinyin": "tí",
+    "meaning": "bài tập, đề"
+  },
+  {
+    "char": "体",
+    "pinyin": "tǐ",
+    "meaning": "cơ thể"
+  },
+  {
+    "char": "体育",
+    "pinyin": "tǐyù",
+    "meaning": "thể dục, thể thao"
+  },
+  {
+    "char": "天",
+    "pinyin": "tiān",
+    "meaning": "trời, ngày"
+  },
+  {
+    "char": "天气",
+    "pinyin": "tiānqì",
+    "meaning": "thời tiết"
+  },
+  {
+    "char": "甜",
+    "pinyin": "tián",
+    "meaning": "ngọt"
+  },
+  {
+    "char": "条",
+    "pinyin": "tiáo",
+    "meaning": "cái, sợi"
+  },
+  {
+    "char": "听",
+    "pinyin": "tīng",
+    "meaning": "nghe"
+  },
+  {
+    "char": "听写",
+    "pinyin": "tīngxiě",
+    "meaning": "nghe viết"
+  },
+  {
+    "char": "停",
+    "pinyin": "tíng",
+    "meaning": "dừng, đỗ"
+  },
+  {
+    "char": "同志",
+    "pinyin": "tóngzhì",
+    "meaning": "đồng chí"
+  },
+  {
+    "char": "同",
+    "pinyin": "tóng",
+    "meaning": "cùng, giống"
+  },
+  {
+    "char": "同时",
+    "pinyin": "tóngshí",
+    "meaning": "cùng lúc"
+  },
+  {
+    "char": "同意",
+    "pinyin": "tóngyì",
+    "meaning": "đồng ý"
+  },
+  {
+    "char": "头发",
+    "pinyin": "tóufa",
+    "meaning": "tóc"
+  },
+  {
+    "char": "突然",
+    "pinyin": "tūrán",
+    "meaning": "đột nhiên"
+  },
+  {
+    "char": "图书馆",
+    "pinyin": "túshūguǎn",
+    "meaning": "thư viện"
+  },
+  {
+    "char": "腿",
+    "pinyin": "tuǐ",
+    "meaning": "chân, đùi"
+  },
+  {
+    "char": "脱",
+    "pinyin": "tuō",
+    "meaning": "cởi, thoát"
+  },
+  {
+    "char": "袜子",
+    "pinyin": "wàzi",
+    "meaning": "tất, vớ"
+  },
+  {
+    "char": "外",
+    "pinyin": "wài",
+    "meaning": "ngoài"
+  },
+  {
+    "char": "完",
+    "pinyin": "wán",
+    "meaning": "xong, hết"
+  },
+  {
+    "char": "玩",
+    "pinyin": "wán",
+    "meaning": "chơi"
+  },
+  {
+    "char": "晚",
+    "pinyin": "wǎn",
+    "meaning": "muộn, tối"
+  },
+  {
+    "char": "晚饭",
+    "pinyin": "wǎnfàn",
+    "meaning": "cơm tối"
+  },
+  {
+    "char": "碗",
+    "pinyin": "wǎn",
+    "meaning": "bát, tô"
+  },
+  {
+    "char": "万",
+    "pinyin": "wàn",
+    "meaning": "vạn, mười nghìn"
+  },
+  {
+    "char": "网",
+    "pinyin": "wǎng",
+    "meaning": "lưới, mạng"
+  },
+  {
+    "char": "网站",
+    "pinyin": "wǎngzhàn",
+    "meaning": "trang web"
+  },
+  {
+    "char": "往",
+    "pinyin": "wǎng",
+    "meaning": "hướng về, đi"
+  },
+  {
+    "char": "危险",
+    "pinyin": "wēixiǎn",
+    "meaning": "nguy hiểm"
+  },
+  {
+    "char": "为",
+    "pinyin": "wèi",
+    "meaning": "vì, cho"
+  },
+  {
+    "char": "为什么",
+    "pinyin": "wèishénme",
+    "meaning": "tại sao"
+  },
+  {
+    "char": "位",
+    "pinyin": "wèi",
+    "meaning": "vị, chỗ ngồi"
+  },
+  {
+    "char": "温度",
+    "pinyin": "wēndù",
+    "meaning": "nhiệt độ"
+  },
+  {
+    "char": "问题",
+    "pinyin": "wèntí",
+    "meaning": "vấn đề, câu hỏi"
+  },
+  {
+    "char": "问",
+    "pinyin": "wèn",
+    "meaning": "hỏi"
+  },
+  {
+    "char": "我",
+    "pinyin": "wǒ",
+    "meaning": "tôi"
+  },
+  {
+    "char": "我们",
+    "pinyin": "wǒmen",
+    "meaning": "chúng tôi"
+  },
+  {
+    "char": "无",
+    "pinyin": "wú",
+    "meaning": "không, vô"
+  },
+  {
+    "char": "五",
+    "pinyin": "wǔ",
+    "meaning": "năm"
+  },
+  {
+    "char": "午饭",
+    "pinyin": "wǔfàn",
+    "meaning": "cơm trưa"
+  },
+  {
+    "char": "物",
+    "pinyin": "wù",
+    "meaning": "vật, đồ vật"
+  },
+  {
+    "char": "西瓜",
+    "pinyin": "xīguā",
+    "meaning": "dưa hấu"
+  },
+  {
+    "char": "习惯",
+    "pinyin": "xíguàn",
+    "meaning": "thói quen"
+  },
+  {
+    "char": "洗",
+    "pinyin": "xǐ",
+    "meaning": "rửa"
+  },
+  {
+    "char": "喜欢",
+    "pinyin": "xǐhuan",
+    "meaning": "thích"
+  },
+  {
+    "char": "下",
+    "pinyin": "xià",
+    "meaning": "dưới, xuống"
+  },
+  {
+    "char": "下午",
+    "pinyin": "xiàwǔ",
+    "meaning": "buổi chiều"
+  },
+  {
+    "char": "下雨",
+    "pinyin": "xiàyǔ",
+    "meaning": "mưa"
+  },
+  {
+    "char": "先生",
+    "pinyin": "xiānsheng",
+    "meaning": "ông, ngài"
+  },
+  {
+    "char": "现在",
+    "pinyin": "xiànzài",
+    "meaning": "bây giờ"
+  },
+  {
+    "char": "相信",
+    "pinyin": "xiāngxìn",
+    "meaning": "tin tưởng"
+  },
+  {
+    "char": "想",
+    "pinyin": "xiǎng",
+    "meaning": "muốn, nghĩ"
+  },
+  {
+    "char": "向",
+    "pinyin": "xiàng",
+    "meaning": "hướng về"
+  },
+  {
+    "char": "像",
+    "pinyin": "xiàng",
+    "meaning": "giống như"
+  },
+  {
+    "char": "小",
+    "pinyin": "xiǎo",
+    "meaning": "nhỏ"
+  },
+  {
+    "char": "小姐",
+    "pinyin": "xiǎojie",
+    "meaning": "cô, tiểu thư"
+  },
+  {
+    "char": "小心",
+    "pinyin": "xiǎoxīn",
+    "meaning": "cẩn thận"
+  },
+  {
+    "char": "笑",
+    "pinyin": "xiào",
+    "meaning": "cười"
+  },
+  {
+    "char": "些",
+    "pinyin": "xiē",
+    "meaning": "vài, chút"
+  },
+  {
+    "char": "写",
+    "pinyin": "xiě",
+    "meaning": "viết"
+  },
+  {
+    "char": "谢谢",
+    "pinyin": "xièxie",
+    "meaning": "cảm ơn"
+  },
+  {
+    "char": "新",
+    "pinyin": "xīn",
+    "meaning": "mới"
+  },
+  {
+    "char": "星期",
+    "pinyin": "xīngqī",
+    "meaning": "tuần"
+  },
+  {
+    "char": "行",
+    "pinyin": "xíng",
+    "meaning": "được, đi"
+  },
+  {
+    "char": "醒",
+    "pinyin": "xǐng",
+    "meaning": "tỉnh"
+  },
+  {
+    "char": "姓",
+    "pinyin": "xìng",
+    "meaning": "họ"
+  },
+  {
+    "char": "幸福",
+    "pinyin": "xìngfú",
+    "meaning": "hạnh phúc"
+  },
+  {
+    "char": "休息",
+    "pinyin": "xiūxi",
+    "meaning": "nghỉ ngơi"
+  },
+  {
+    "char": "修",
+    "pinyin": "xiū",
+    "meaning": "sửa chữa"
+  },
+  {
+    "char": "须",
+    "pinyin": "xū",
+    "meaning": "phải, cần"
+  },
+  {
+    "char": "需要",
+    "pinyin": "xūyào",
+    "meaning": "cần"
+  },
+  {
+    "char": "选择",
+    "pinyin": "xuǎnzé",
+    "meaning": "lựa chọn"
+  },
+  {
+    "char": "学",
+    "pinyin": "xué",
+    "meaning": "học"
+  },
+  {
+    "char": "学生",
+    "pinyin": "xuésheng",
+    "meaning": "học sinh"
+  },
+  {
+    "char": "学习",
+    "pinyin": "xuéxí",
+    "meaning": "học tập"
+  },
+  {
+    "char": "雪",
+    "pinyin": "xuě",
+    "meaning": "tuyết"
+  },
+  {
+    "char": "颜色",
+    "pinyin": "yánsè",
+    "meaning": "màu sắc"
+  },
+  {
+    "char": "眼",
+    "pinyin": "yǎn",
+    "meaning": "mắt"
+  },
+  {
+    "char": "眼睛",
+    "pinyin": "yǎnjing",
+    "meaning": "đôi mắt"
+  },
+  {
+    "char": "羊肉",
+    "pinyin": "yángròu",
+    "meaning": "thịt cừu"
+  },
+  {
+    "char": "阳",
+    "pinyin": "yáng",
+    "meaning": "mặt trời, dương"
+  },
+  {
+    "char": "药",
+    "pinyin": "yào",
+    "meaning": "thuốc"
+  },
+  {
+    "char": "要",
+    "pinyin": "yào",
+    "meaning": "muốn, cần"
+  },
+  {
+    "char": "也",
+    "pinyin": "yě",
+    "meaning": "cũng"
+  },
+  {
+    "char": "页",
+    "pinyin": "yè",
+    "meaning": "trang"
+  },
+  {
+    "char": "一",
+    "pinyin": "yī",
+    "meaning": "một"
+  },
+  {
+    "char": "衣服",
+    "pinyin": "yīfu",
+    "meaning": "quần áo"
+  },
+  {
+    "char": "医生",
+    "pinyin": "yīshēng",
+    "meaning": "bác sĩ"
+  },
+  {
+    "char": "医院",
+    "pinyin": "yīyuàn",
+    "meaning": "bệnh viện"
+  },
+  {
+    "char": "椅子",
+    "pinyin": "yǐzi",
+    "meaning": "ghế"
+  },
+  {
+    "char": "以后",
+    "pinyin": "yǐhòu",
+    "meaning": "sau này"
+  },
+  {
+    "char": "以为",
+    "pinyin": "yǐwéi",
+    "meaning": "tưởng là"
+  },
+  {
+    "char": "意思",
+    "pinyin": "yìsi",
+    "meaning": "ý nghĩa"
+  },
+  {
+    "char": "音乐",
+    "pinyin": "yīnyuè",
+    "meaning": "âm nhạc"
+  },
+  {
+    "char": "银行",
+    "pinyin": "yínháng",
+    "meaning": "ngân hàng"
+  },
+  {
+    "char": "饮",
+    "pinyin": "yǐn",
+    "meaning": "uống"
+  },
+  {
+    "char": "应",
+    "pinyin": "yīng",
+    "meaning": "nên, ứng"
+  },
+  {
+    "char": "英语",
+    "pinyin": "Yīngyǔ",
+    "meaning": "tiếng Anh"
+  },
+  {
+    "char": "影",
+    "pinyin": "yǐng",
+    "meaning": "bóng, hình ảnh"
+  },
+  {
+    "char": "硬",
+    "pinyin": "yìng",
+    "meaning": "cứng"
+  },
+  {
+    "char": "用",
+    "pinyin": "yòng",
+    "meaning": "dùng"
+  },
+  {
+    "char": "游戏",
+    "pinyin": "yóuxì",
+    "meaning": "trò chơi"
+  },
+  {
+    "char": "有",
+    "pinyin": "yǒu",
+    "meaning": "có"
+  },
+  {
+    "char": "又",
+    "pinyin": "yòu",
+    "meaning": "lại, nữa"
+  },
+  {
+    "char": "鱼",
+    "pinyin": "yú",
+    "meaning": "cá"
+  },
+  {
+    "char": "与",
+    "pinyin": "yǔ",
+    "meaning": "và, cùng"
+  },
+  {
+    "char": "语法",
+    "pinyin": "yǔfǎ",
+    "meaning": "ngữ pháp"
+  },
+  {
+    "char": "元",
+    "pinyin": "yuán",
+    "meaning": "tệ (tiền)"
+  },
+  {
+    "char": "远",
+    "pinyin": "yuǎn",
+    "meaning": "xa"
+  },
+  {
+    "char": "愿意",
+    "pinyin": "yuànyì",
+    "meaning": "sẵn lòng, muốn"
+  },
+  {
+    "char": "月",
+    "pinyin": "yuè",
+    "meaning": "tháng"
+  },
+  {
+    "char": "杂志",
+    "pinyin": "zázhì",
+    "meaning": "tạp chí"
+  },
+  {
+    "char": "再",
+    "pinyin": "zài",
+    "meaning": "lại, nữa"
+  },
+  {
+    "char": "再见",
+    "pinyin": "zàijiàn",
+    "meaning": "tạm biệt"
+  },
+  {
+    "char": "在",
+    "pinyin": "zài",
+    "meaning": "ở, đang"
+  },
+  {
+    "char": "早",
+    "pinyin": "zǎo",
+    "meaning": "sớm"
+  },
+  {
+    "char": "早上",
+    "pinyin": "zǎoshang",
+    "meaning": "buổi sáng"
+  },
+  {
+    "char": "怎么",
+    "pinyin": "zěnme",
+    "meaning": "làm sao"
+  },
+  {
+    "char": "站",
+    "pinyin": "zhàn",
+    "meaning": "trạm, đứng"
+  },
+  {
+    "char": "张",
+    "pinyin": "zhāng",
+    "meaning": "tấm, trương"
+  },
+  {
+    "char": "长",
+    "pinyin": "cháng",
+    "meaning": "dài"
+  },
+  {
+    "char": "找",
+    "pinyin": "zhǎo",
+    "meaning": "tìm"
+  },
+  {
+    "char": "照",
+    "pinyin": "zhào",
+    "meaning": "chiếu, chụp"
+  },
+  {
+    "char": "照片",
+    "pinyin": "zhàopiàn",
+    "meaning": "ảnh"
+  },
+  {
+    "char": "这",
+    "pinyin": "zhè",
+    "meaning": "này"
+  },
+  {
+    "char": "着",
+    "pinyin": "zhe",
+    "meaning": "đang (trợ từ)"
+  },
+  {
+    "char": "真",
+    "pinyin": "zhēn",
+    "meaning": "thật, chân"
+  },
+  {
+    "char": "正",
+    "pinyin": "zhèng",
+    "meaning": "đang, đúng"
+  },
+  {
+    "char": "政府",
+    "pinyin": "zhèngfǔ",
+    "meaning": "chính phủ"
+  },
+  {
+    "char": "知道",
+    "pinyin": "zhīdao",
+    "meaning": "biết"
+  },
+  {
+    "char": "直",
+    "pinyin": "zhí",
+    "meaning": "thẳng"
+  },
+  {
+    "char": "只",
+    "pinyin": "zhǐ",
+    "meaning": "chỉ"
+  },
+  {
+    "char": "纸",
+    "pinyin": "zhǐ",
+    "meaning": "giấy"
+  },
+  {
+    "char": "指",
+    "pinyin": "zhǐ",
+    "meaning": "chỉ, ngón tay"
+  },
+  {
+    "char": "中",
+    "pinyin": "zhōng",
+    "meaning": "giữa, Trung"
+  },
+  {
+    "char": "中午",
+    "pinyin": "zhōngwǔ",
+    "meaning": "buổi trưa"
+  },
+  {
+    "char": "种",
+    "pinyin": "zhǒng",
+    "meaning": "loại, giống"
+  },
+  {
+    "char": "重",
+    "pinyin": "zhòng",
+    "meaning": "nặng"
+  },
+  {
+    "char": "重要",
+    "pinyin": "zhòngyào",
+    "meaning": "quan trọng"
+  },
+  {
+    "char": "周",
+    "pinyin": "zhōu",
+    "meaning": "tuần, chu vi"
+  },
+  {
+    "char": "周末",
+    "pinyin": "zhōumò",
+    "meaning": "cuối tuần"
+  },
+  {
+    "char": "主",
+    "pinyin": "zhǔ",
+    "meaning": "chủ, chính"
+  },
+  {
+    "char": "住",
+    "pinyin": "zhù",
+    "meaning": "ở"
+  },
+  {
+    "char": "准备",
+    "pinyin": "zhǔnbèi",
+    "meaning": "chuẩn bị"
+  },
+  {
+    "char": "走",
+    "pinyin": "zǒu",
+    "meaning": "đi, chạy"
+  },
+  {
+    "char": "最",
+    "pinyin": "zuì",
+    "meaning": "nhất"
+  },
+  {
+    "char": "左",
+    "pinyin": "zuǒ",
+    "meaning": "trái"
+  },
+  {
+    "char": "做",
+    "pinyin": "zuò",
+    "meaning": "làm"
+  },
+  {
+    "char": "作",
+    "pinyin": "zuò",
+    "meaning": "làm, tác"
+  },
+  {
+    "char": "作业",
+    "pinyin": "zuòyè",
+    "meaning": "bài tập"
+  },
+  {
+    "char": "坐",
+    "pinyin": "zuò",
+    "meaning": "ngồi"
+  },
+  {
+    "char": "座",
+    "pinyin": "zuò",
+    "meaning": "chỗ ngồi, tòa"
+  }
+]
